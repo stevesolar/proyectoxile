@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<report>
+<location city="Concepcion [Bio Bio;Chile]">
+<interesting>
+<url description="prediccion">
+https://www.meteored.cl/tiempo-en_Concepcion-America+Sur-Chile-Biobio-SCIE-1-18576.html
+</url>
+</interesting>
+<day value="20170924" name="Domingo">
+<symbol value="2" desc="Intervalos nubosos" value2="2" desc2="Intervalos nubosos"/>
+<tempmin value="7" unit="°C"/>
+<tempmax value="15" unit="°C"/>
+<wind value="20" unit="km/h" symbol="14" symbolB="54"/>
+<wind-gusts value="42" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="83"/>
+<pressure value="1022" unit="mb"/>
+<snowline value="2700" unit="m"/>
+<sun in="07:38" mid="13:43" out="19:49"/>
+<moon in="10:23" out="--:--" lumi="19.19%" desc="Luna Creciente, 19.19% Iluminada" symbol="24"/>
+<local_info local_time="12:11" offset="-3"/>
+<hour value="02:00">
+<temp value="9" unit="°C"/>
+<symbol value="2" desc="Intervalos nubosos" value2="2" desc2="Intervalos nubosos"/>
+<wind value="8" unit="km/h" dir="SW" symbol="14" symbolB="38"/>
+<wind-gusts value="23" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="95"/>
+<pressure value="1019" unit="mb"/>
+<clouds value="11%"/>
+<snowline value="3200" unit="m"/>
+<windchill value="8" unit="°C"/>
+</hour>
+<hour value="05:00">
+<temp value="9" unit="°C"/>
+<symbol value="3" desc="Cielos Nubosos" value2="2" desc2="Intervalos nubosos"/>
+<wind value="6" unit="km/h" dir="SW" symbol="6" symbolB="30"/>
+<wind-gusts value="15" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="96"/>
+<pressure value="1019" unit="mb"/>
+<clouds value="51%"/>
+<snowline value="3200" unit="m"/>
+<windchill value="8" unit="°C"/>
+</hour>
+<hour value="08:00">
+<temp value="11" unit="°C"/>
+<symbol value="3" desc="Cielos Nubosos" value2="2" desc2="Intervalos nubosos"/>
+<wind value="9" unit="km/h" dir="SW" symbol="6" symbolB="30"/>
+<wind-gusts value="19" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="95"/>
+<pressure value="1020" unit="mb"/>
+<clouds value="79%"/>
+<snowline value="3100" unit="m"/>
+<windchill value="11" unit="°C"/>
+</hour>
+<hour value="11:00">
+<temp value="13" unit="°C"/>
+<symbol value="3" desc="Cielos Nubosos" value2="2" desc2="Intervalos nubosos"/>
+<wind value="14" unit="km/h" dir="SW" symbol="14" symbolB="46"/>
+<wind-gusts value="30" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="78"/>
+<pressure value="1023" unit="mb"/>
+<clouds value="67%"/>
+<snowline value="2900" unit="m"/>
+<windchill value="13" unit="°C"/>
+</hour>
+<hour value="14:00">
+<temp value="14" unit="°C"/>
+<symbol value="3" desc="Cielos Nubosos" value2="2" desc2="Intervalos nubosos"/>
+<wind value="16" unit="km/h" dir="SW" symbol="14" symbolB="46"/>
+<wind-gusts value="35" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="72"/>
+<pressure value="1023" unit="mb"/>
+<clouds value="60%"/>
+<snowline value="2900" unit="m"/>
+<windchill value="14" unit="°C"/>
+</hour>
+<hour value="17:00">
+<temp value="14" unit="°C"/>
+<symbol value="2" desc="Intervalos nubosos" value2="2" desc2="Intervalos nubosos"/>
+<wind value="19" unit="km/h" dir="SW" symbol="14" symbolB="54"/>
+<wind-gusts value="41" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="70"/>
+<pressure value="1024" unit="mb"/>
+<clouds value="23%"/>
+<snowline value="2800" unit="m"/>
+<windchill value="14" unit="°C"/>
+</hour>
+<hour value="20:00">
+<temp value="11" unit="°C"/>
+<symbol value="1" desc="Despejado" value2="2" desc2="Intervalos nubosos"/>
+<wind value="20" unit="km/h" dir="SW" symbol="14" symbolB="54"/>
+<wind-gusts value="41" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="77"/>
+<pressure value="1025" unit="mb"/>
+<clouds value="8%"/>
+<snowline value="2700" unit="m"/>
+<windchill value="11" unit="°C"/>
+</hour>
+<hour value="23:00">
+<temp value="9" unit="°C"/>
+<symbol value="2" desc="Intervalos nubosos" value2="2" desc2="Intervalos nubosos"/>
+<wind value="11" unit="km/h" dir="S" symbol="13" symbolB="45"/>
+<wind-gusts value="38" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="86"/>
+<pressure value="1026" unit="mb"/>
+<clouds value="29%"/>
+<snowline value="2800" unit="m"/>
+<windchill value="8" unit="°C"/>
+</hour>
+</day>
+<day value="20170925" name="Lunes">
+<symbol value="2" desc="Intervalos nubosos" value2="2" desc2="Intervalos nubosos"/>
+<tempmin value="6" unit="°C"/>
+<tempmax value="16" unit="°C"/>
+<wind value="18" unit="km/h" symbol="14" symbolB="54"/>
+<wind-gusts value="39" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="79"/>
+<pressure value="1023" unit="mb"/>
+<snowline value="2600" unit="m"/>
+<sun in="07:36" mid="13:43" out="19:50"/>
+<moon in="11:00" out="00:14" lumi="27.31%" desc="Luna Creciente, 27.31% Iluminada" symbol="23"/>
+<local_info local_time="12:11" offset="-3"/>
+<hour value="02:00">
+<temp value="8" unit="°C"/>
+<symbol value="2" desc="Intervalos nubosos" value2="2" desc2="Intervalos nubosos"/>
+<wind value="8" unit="km/h" dir="S" symbol="13" symbolB="37"/>
+<wind-gusts value="23" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="88"/>
+<pressure value="1025" unit="mb"/>
+<clouds value="13%"/>
+<snowline value="3000" unit="m"/>
+<windchill value="7" unit="°C"/>
+</hour>
+<hour value="05:00">
+<temp value="7" unit="°C"/>
+<symbol value="1" desc="Despejado" value2="2" desc2="Intervalos nubosos"/>
+<wind value="10" unit="km/h" dir="S" symbol="5" symbolB="37"/>
+<wind-gusts value="20" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="91"/>
+<pressure value="1024" unit="mb"/>
+<clouds value="6%"/>
+<snowline value="3000" unit="m"/>
+<windchill value="6" unit="°C"/>
+</hour>
+<hour value="08:00">
+<temp value="8" unit="°C"/>
+<symbol value="2" desc="Intervalos nubosos" value2="2" desc2="Intervalos nubosos"/>
+<wind value="10" unit="km/h" dir="SE" symbol="12" symbolB="36"/>
+<wind-gusts value="22" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="89"/>
+<pressure value="1024" unit="mb"/>
+<clouds value="12%"/>
+<snowline value="3000" unit="m"/>
+<windchill value="6" unit="°C"/>
+</hour>
+<hour value="11:00">
+<temp value="12" unit="°C"/>
+<symbol value="3" desc="Cielos Nubosos" value2="2" desc2="Intervalos nubosos"/>
+<wind value="10" unit="km/h" dir="S" symbol="13" symbolB="37"/>
+<wind-gusts value="26" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="72"/>
+<pressure value="1024" unit="mb"/>
+<clouds value="55%"/>
+<snowline value="3100" unit="m"/>
+<windchill value="12" unit="°C"/>
+</hour>
+<hour value="14:00">
+<temp value="15" unit="°C"/>
+<symbol value="3" desc="Cielos Nubosos" value2="2" desc2="Intervalos nubosos"/>
+<wind value="12" unit="km/h" dir="SW" symbol="14" symbolB="46"/>
+<wind-gusts value="30" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="61"/>
+<pressure value="1022" unit="mb"/>
+<clouds value="46%"/>
+<snowline value="3000" unit="m"/>
+<windchill value="15" unit="°C"/>
+</hour>
+<hour value="17:00">
+<temp value="14" unit="°C"/>
+<symbol value="2" desc="Intervalos nubosos" value2="2" desc2="Intervalos nubosos"/>
+<wind value="18" unit="km/h" dir="SW" symbol="14" symbolB="46"/>
+<wind-gusts value="37" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="66"/>
+<pressure value="1021" unit="mb"/>
+<clouds value="42%"/>
+<snowline value="2800" unit="m"/>
+<windchill value="14" unit="°C"/>
+</hour>
+<hour value="20:00">
+<temp value="12" unit="°C"/>
+<symbol value="2" desc="Intervalos nubosos" value2="2" desc2="Intervalos nubosos"/>
+<wind value="10" unit="km/h" dir="SW" symbol="14" symbolB="46"/>
+<wind-gusts value="38" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="81"/>
+<pressure value="1022" unit="mb"/>
+<clouds value="47%"/>
+<snowline value="2600" unit="m"/>
+<windchill value="12" unit="°C"/>
+</hour>
+<hour value="23:00">
+<temp value="9" unit="°C"/>
+<symbol value="2" desc="Intervalos nubosos" value2="2" desc2="Intervalos nubosos"/>
+<wind value="7" unit="km/h" dir="S" symbol="13" symbolB="37"/>
+<wind-gusts value="24" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="87"/>
+<pressure value="1023" unit="mb"/>
+<clouds value="25%"/>
+<snowline value="2700" unit="m"/>
+<windchill value="9" unit="°C"/>
+</hour>
+</day>
+<day value="20170926" name="Martes">
+<symbol value="2" desc="Intervalos nubosos" value2="2" desc2="Intervalos nubosos"/>
+<tempmin value="4" unit="°C"/>
+<tempmax value="17" unit="°C"/>
+<wind value="18" unit="km/h" symbol="14" symbolB="54"/>
+<wind-gusts value="39" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="75"/>
+<pressure value="1019" unit="mb"/>
+<snowline value="3300" unit="m"/>
+<sun in="07:35" mid="13:43" out="19:51"/>
+<moon in="11:39" out="01:09" lumi="36.15%" desc="Luna Creciente, 36.15% Iluminada" symbol="22"/>
+<local_info local_time="12:11" offset="-3"/>
+<hour value="03:00">
+<temp value="7" unit="°C"/>
+<symbol value="1" desc="Despejado" value2="2" desc2="Intervalos nubosos"/>
+<wind value="6" unit="km/h" dir="S" symbol="5" symbolB="29"/>
+<wind-gusts value="16" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="89"/>
+<pressure value="1022" unit="mb"/>
+<clouds value="2%"/>
+<snowline value="3300" unit="m"/>
+<windchill value="7" unit="°C"/>
+</hour>
+<hour value="06:00">
+<temp value="6" unit="°C"/>
+<symbol value="2" desc="Intervalos nubosos" value2="2" desc2="Intervalos nubosos"/>
+<wind value="6" unit="km/h" dir="SE" symbol="4" symbolB="28"/>
+<wind-gusts value="14" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="90"/>
+<pressure value="1021" unit="mb"/>
+<clouds value="52%"/>
+<snowline value="3300" unit="m"/>
+<windchill value="5" unit="°C"/>
+</hour>
+<hour value="09:00">
+<temp value="7" unit="°C"/>
+<symbol value="2" desc="Intervalos nubosos" value2="2" desc2="Intervalos nubosos"/>
+<wind value="6" unit="km/h" dir="SE" symbol="4" symbolB="28"/>
+<wind-gusts value="15" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="73"/>
+<pressure value="1021" unit="mb"/>
+<clouds value="25%"/>
+<snowline value="3500" unit="m"/>
+<windchill value="7" unit="°C"/>
+</hour>
+<hour value="12:00">
+<temp value="12" unit="°C"/>
+<symbol value="2" desc="Intervalos nubosos" value2="2" desc2="Intervalos nubosos"/>
+<wind value="7" unit="km/h" dir="S" symbol="13" symbolB="37"/>
+<wind-gusts value="21" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="65"/>
+<pressure value="1021" unit="mb"/>
+<clouds value="48%"/>
+<snowline value="3500" unit="m"/>
+<windchill value="12" unit="°C"/>
+</hour>
+<hour value="15:00">
+<temp value="16" unit="°C"/>
+<symbol value="2" desc="Intervalos nubosos" value2="2" desc2="Intervalos nubosos"/>
+<wind value="15" unit="km/h" dir="SW" symbol="14" symbolB="46"/>
+<wind-gusts value="33" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="61"/>
+<pressure value="1018" unit="mb"/>
+<clouds value="42%"/>
+<snowline value="3600" unit="m"/>
+<windchill value="16" unit="°C"/>
+</hour>
+<hour value="18:00">
+<temp value="16" unit="°C"/>
+<symbol value="2" desc="Intervalos nubosos" value2="2" desc2="Intervalos nubosos"/>
+<wind value="18" unit="km/h" dir="SW" symbol="14" symbolB="54"/>
+<wind-gusts value="39" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="67"/>
+<pressure value="1017" unit="mb"/>
+<clouds value="31%"/>
+<snowline value="3500" unit="m"/>
+<windchill value="16" unit="°C"/>
+</hour>
+<hour value="21:00">
+<temp value="10" unit="°C"/>
+<symbol value="1" desc="Despejado" value2="2" desc2="Intervalos nubosos"/>
+<wind value="10" unit="km/h" dir="S" symbol="13" symbolB="45"/>
+<wind-gusts value="35" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="81"/>
+<pressure value="1017" unit="mb"/>
+<clouds value="0%"/>
+<snowline value="3700" unit="m"/>
+<windchill value="10" unit="°C"/>
+</hour>
+<hour value="24:00">
+<temp value="8" unit="°C"/>
+<symbol value="2" desc="Intervalos nubosos" value2="2" desc2="Intervalos nubosos"/>
+<wind value="9" unit="km/h" dir="S" symbol="13" symbolB="37"/>
+<wind-gusts value="22" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="84"/>
+<pressure value="1017" unit="mb"/>
+<clouds value="18%"/>
+<snowline value="3700" unit="m"/>
+<windchill value="7" unit="°C"/>
+</hour>
+</day>
+<day value="20170927" name="Miércoles">
+<symbol value="3" desc="Cielos Nubosos" value2="3" desc2="Cielos Nubosos"/>
+<tempmin value="5" unit="°C"/>
+<tempmax value="16" unit="°C"/>
+<wind value="10" unit="km/h" symbol="15" symbolB="39"/>
+<wind-gusts value="26" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="80"/>
+<pressure value="1013" unit="mb"/>
+<snowline value="3200" unit="m"/>
+<sun in="07:33" mid="13:42" out="19:52"/>
+<moon in="12:22" out="02:01" lumi="45.43%" desc="Luna Creciente, 45.43% Iluminada" symbol="21"/>
+<local_info local_time="12:11" offset="-3"/>
+<hour value="03:00">
+<temp value="8" unit="°C"/>
+<symbol value="2" desc="Intervalos nubosos" value2="3" desc2="Cielos Nubosos"/>
+<wind value="7" unit="km/h" dir="S" symbol="5" symbolB="29"/>
+<wind-gusts value="19" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="89"/>
+<pressure value="1014" unit="mb"/>
+<clouds value="50%"/>
+<snowline value="3700" unit="m"/>
+<windchill value="7" unit="°C"/>
+</hour>
+<hour value="06:00">
+<temp value="7" unit="°C"/>
+<symbol value="2" desc="Intervalos nubosos" value2="3" desc2="Cielos Nubosos"/>
+<wind value="5" unit="km/h" dir="SE" symbol="4" symbolB="28"/>
+<wind-gusts value="15" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="96"/>
+<pressure value="1013" unit="mb"/>
+<clouds value="49%"/>
+<snowline value="3700" unit="m"/>
+<windchill value="6" unit="°C"/>
+</hour>
+<hour value="09:00">
+<temp value="10" unit="°C"/>
+<symbol value="2" desc="Intervalos nubosos" value2="3" desc2="Cielos Nubosos"/>
+<wind value="7" unit="km/h" dir="SE" symbol="4" symbolB="28"/>
+<wind-gusts value="19" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="74"/>
+<pressure value="1013" unit="mb"/>
+<clouds value="36%"/>
+<snowline value="3700" unit="m"/>
+<windchill value="10" unit="°C"/>
+</hour>
+<hour value="12:00">
+<temp value="14" unit="°C"/>
+<symbol value="3" desc="Cielos Nubosos" value2="3" desc2="Cielos Nubosos"/>
+<wind value="7" unit="km/h" dir="SW" symbol="14" symbolB="38"/>
+<wind-gusts value="24" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="68"/>
+<pressure value="1013" unit="mb"/>
+<clouds value="76%"/>
+<snowline value="3700" unit="m"/>
+<windchill value="14" unit="°C"/>
+</hour>
+<hour value="15:00">
+<temp value="15" unit="°C"/>
+<symbol value="3" desc="Cielos Nubosos" value2="3" desc2="Cielos Nubosos"/>
+<wind value="10" unit="km/h" dir="W" symbol="15" symbolB="39"/>
+<wind-gusts value="23" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="64"/>
+<pressure value="1012" unit="mb"/>
+<clouds value="91%"/>
+<snowline value="3600" unit="m"/>
+<windchill value="15" unit="°C"/>
+</hour>
+<hour value="18:00">
+<temp value="14" unit="°C"/>
+<symbol value="4" desc="Cielos Cubiertos" value2="3" desc2="Cielos Nubosos"/>
+<wind value="6" unit="km/h" dir="W" symbol="15" symbolB="39"/>
+<wind-gusts value="26" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="75"/>
+<pressure value="1012" unit="mb"/>
+<clouds value="96%"/>
+<snowline value="3400" unit="m"/>
+<windchill value="14" unit="°C"/>
+</hour>
+<hour value="21:00">
+<temp value="11" unit="°C"/>
+<symbol value="4" desc="Cielos Cubiertos" value2="3" desc2="Cielos Nubosos"/>
+<wind value="5" unit="km/h" dir="SW" symbol="14" symbolB="38"/>
+<wind-gusts value="23" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="92"/>
+<pressure value="1014" unit="mb"/>
+<clouds value="98%"/>
+<snowline value="3200" unit="m"/>
+<windchill value="11" unit="°C"/>
+</hour>
+<hour value="24:00">
+<temp value="8" unit="°C"/>
+<symbol value="3" desc="Cielos Nubosos" value2="3" desc2="Cielos Nubosos"/>
+<wind value="6" unit="km/h" dir="W" symbol="7" symbolB="31"/>
+<wind-gusts value="14" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="98"/>
+<pressure value="1015" unit="mb"/>
+<clouds value="61%"/>
+<snowline value="3300" unit="m"/>
+<windchill value="8" unit="°C"/>
+</hour>
+</day>
+<day value="20170928" name="Jueves">
+<symbol value="3" desc="Cielos Nubosos" value2="3" desc2="Cielos Nubosos"/>
+<tempmin value="6" unit="°C"/>
+<tempmax value="16" unit="°C"/>
+<wind value="15" unit="km/h" symbol="16" symbolB="48"/>
+<wind-gusts value="31" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="93"/>
+<pressure value="1013" unit="mb"/>
+<snowline value="2700" unit="m"/>
+<sun in="07:32" mid="13:42" out="19:53"/>
+<moon in="13:09" out="02:51" lumi="54.89%" desc="Luna Creciente, 54.89% Iluminada" symbol="21"/>
+<local_info local_time="12:11" offset="-3"/>
+<hour value="03:00">
+<temp value="8" unit="°C"/>
+<symbol value="3" desc="Cielos Nubosos" value2="3" desc2="Cielos Nubosos"/>
+<wind value="3" unit="km/h" dir="NE" symbol="2" symbolB="18"/>
+<wind-gusts value="11" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="99"/>
+<pressure value="1013" unit="mb"/>
+<clouds value="87%"/>
+<snowline value="3200" unit="m"/>
+<windchill value="9" unit="°C"/>
+</hour>
+<hour value="06:00">
+<temp value="8" unit="°C"/>
+<symbol value="2" desc="Intervalos nubosos" value2="3" desc2="Cielos Nubosos"/>
+<wind value="4" unit="km/h" dir="E" symbol="3" symbolB="19"/>
+<wind-gusts value="9" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="100"/>
+<pressure value="1013" unit="mb"/>
+<clouds value="51%"/>
+<snowline value="3200" unit="m"/>
+<windchill value="8" unit="°C"/>
+</hour>
+<hour value="09:00">
+<temp value="11" unit="°C"/>
+<symbol value="2" desc="Intervalos nubosos" value2="3" desc2="Cielos Nubosos"/>
+<wind value="6" unit="km/h" dir="SE" symbol="4" symbolB="28"/>
+<wind-gusts value="17" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="93"/>
+<pressure value="1013" unit="mb"/>
+<clouds value="54%"/>
+<snowline value="3000" unit="m"/>
+<windchill value="11" unit="°C"/>
+</hour>
+<hour value="12:00">
+<temp value="14" unit="°C"/>
+<symbol value="4" desc="Cielos Cubiertos" value2="3" desc2="Cielos Nubosos"/>
+<wind value="4" unit="km/h" dir="W" symbol="7" symbolB="31"/>
+<wind-gusts value="17" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="87"/>
+<pressure value="1013" unit="mb"/>
+<clouds value="97%"/>
+<snowline value="3200" unit="m"/>
+<windchill value="14" unit="°C"/>
+</hour>
+<hour value="15:00">
+<temp value="14" unit="°C"/>
+<symbol value="4" desc="Cielos Cubiertos" value2="3" desc2="Cielos Nubosos"/>
+<wind value="14" unit="km/h" dir="NW" symbol="16" symbolB="40"/>
+<wind-gusts value="26" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="84"/>
+<pressure value="1013" unit="mb"/>
+<clouds value="98%"/>
+<snowline value="3000" unit="m"/>
+<windchill value="14" unit="°C"/>
+</hour>
+<hour value="18:00">
+<temp value="12" unit="°C"/>
+<symbol value="3" desc="Cielos Nubosos" value2="3" desc2="Cielos Nubosos"/>
+<wind value="13" unit="km/h" dir="N" symbol="9" symbolB="41"/>
+<wind-gusts value="31" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="89"/>
+<pressure value="1013" unit="mb"/>
+<clouds value="94%"/>
+<snowline value="3000" unit="m"/>
+<windchill value="12" unit="°C"/>
+</hour>
+<hour value="21:00">
+<temp value="10" unit="°C"/>
+<symbol value="4" desc="Cielos Cubiertos" value2="3" desc2="Cielos Nubosos"/>
+<wind value="13" unit="km/h" dir="N" symbol="9" symbolB="33"/>
+<wind-gusts value="27" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="100"/>
+<pressure value="1014" unit="mb"/>
+<clouds value="98%"/>
+<snowline value="2800" unit="m"/>
+<windchill value="10" unit="°C"/>
+</hour>
+<hour value="24:00">
+<temp value="11" unit="°C"/>
+<symbol value="3" desc="Cielos Nubosos" value2="3" desc2="Cielos Nubosos"/>
+<wind value="15" unit="km/h" dir="NW" symbol="16" symbolB="48"/>
+<wind-gusts value="29" unit="km/h"/>
+<rain value="0" unit="mm"/>
+<humidity value="97"/>
+<pressure value="1014" unit="mb"/>
+<clouds value="90%"/>
+<snowline value="2700" unit="m"/>
+<windchill value="11" unit="°C"/>
+</hour>
+</day>
+</location>
+</report>
